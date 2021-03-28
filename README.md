@@ -1,2 +1,2 @@
-##kagiextension.github.io
+## kagiextension.github.io
 The website for the kagi extension 
